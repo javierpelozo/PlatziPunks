@@ -1,0 +1,8 @@
+{
+  "name": "PlatziPunks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/javierpelozo/PlatziPunks",
+  "author": "javierpelozo <javpelozo@gmail.com>",
+  "license": "MIT"
+}
